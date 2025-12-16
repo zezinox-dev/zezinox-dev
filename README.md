@@ -1,20 +1,20 @@
 # Henry Gabriel
 
-Desenvolvedor Full Stack focado na criação de aplicações web modernas, escaláveis e bem estruturadas.
-Atuo no desenvolvimento completo, do front-end ao back-end, com foco em qualidade, performance e organização de código.
+Sou desenvolvedor **Full Stack** e gosto de criar aplicações web modernas, bem estruturadas e pensadas para crescer.  
+Trabalho tanto no **front-end** quanto no **back-end**, sempre buscando código limpo, boa performance e uma experiência agradável para quem usa o sistema.
 
 ---
 
-## 🧠 Especialidades
+## 💡 No que eu trabalho
 - Desenvolvimento Full Stack
-- Arquitetura de aplicações web
-- APIs REST
-- Sistemas web e dashboards
-- UI/UX e experiência do usuário
+- Criação de aplicações web do zero
+- APIs REST e integrações
+- Sistemas administrativos e dashboards
+- Interfaces modernas com foco em usabilidade
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias que uso
 
 ### Front-end
 - HTML5
@@ -25,9 +25,9 @@ Atuo no desenvolvimento completo, do front-end ao back-end, com foco em qualidad
 ### Back-end
 - Node.js
 - APIs REST
-- Autenticação e autorização
+- Autenticação e controle de acesso
 
-### Banco de Dados
+### Banco de dados
 - PostgreSQL
 - MySQL
 - MongoDB
@@ -39,19 +39,19 @@ Atuo no desenvolvimento completo, do front-end ao back-end, com foco em qualidad
 
 ---
 
-## 📌 Tipos de Projetos
+## 🚀 Tipos de projetos
 - Aplicações web full stack
-- Sistemas administrativos
+- Sistemas com login e painel administrativo
 - Landing pages modernas
-- Interfaces interativas
+- Interfaces interativas e dinâmicas
 
 ---
 
-## 🎯 Objetivo
-Construir soluções completas, profissionais e escaláveis, sempre focando em boas práticas e evolução contínua.
+## 🎯 Meu objetivo
+Evoluir constantemente como desenvolvedor e construir soluções bem feitas, organizadas e escaláveis, sempre respeitando boas práticas e pensando no longo prazo.
 
 ---
 
-## 📫 Contato
-- Email: seuemail@email.com
-- Discord: seu_user
+## 🌐 Onde me encontrar
+- 🌍 Site: **https://seusite.com**
+- 💬 Discord: **seu_user**
