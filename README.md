@@ -1,4 +1,4 @@
-# Henry Gabriel
+# Zezinox Developer
 
 Sou desenvolvedor **Full Stack** e gosto de criar aplicações web modernas, bem estruturadas e pensadas para crescer.  
 Trabalho tanto no **front-end** quanto no **back-end**, sempre buscando código limpo, boa performance e uma experiência agradável para quem usa o sistema.
@@ -53,5 +53,5 @@ Evoluir constantemente como desenvolvedor e construir soluções bem feitas, org
 ---
 
 ## 🌐 Onde me encontrar
-- 🌍 Site: **https://seusite.com**
-- 💬 Discord: **seu_user**
+- 🌍 Site: **https://falconsight.shop**
+- 💬 Discord: **zezinox_dev**
